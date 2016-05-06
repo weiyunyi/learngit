@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 Creadting a new branch is quick and simple.
 test ff fast forward
+have a try
